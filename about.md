@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some infos about me
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Gordon College is where I study IT. Editing is something I enjoy doing, especially with videos and photos. Troubleshooting is something I also like to do, especially with hardware. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](202110255@gordoncollege.edu.ph)
